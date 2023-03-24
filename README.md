@@ -16,9 +16,16 @@ L'application GSB a plusieurs fonctionnalitées, notamment :
 - Gérer le stock d'échantillons de médicaments que possède un visiteur donnée (créer/ajouter).
 
 ### Créer un nouveau visiteur :
+Après avoir sélectionné le menu "Créer Visiteur", remplir les champs requis.
+> **_NOTE:_**
+ L'IHM préviendra l'utilisateur en cas de saisie manquante/non autorisée, mais aussi lorsque le visiteur aura bien été créé.
+
 ![Alt Text](https://github.com/ArseneEvsen/GSB-Java-Repository/blob/master/Screenshots%20application/Cr%C3%A9er-un-visiteur.gif?raw=true)
 
 ### Consulter la liste des visiteurs existants :
+Après avoir sélectionné le menu "Liste Visiteur", vous aurez la liste des visiteurs.
+Pour afficher les informations d'un visiteur, saisir son matricule dans le champs de saisie et cliquer sur le bouton "Afficher Fiche Visiteur"
+
 ![Alt Text](https://github.com/ArseneEvsen/GSB-Java-Repository/blob/master/Screenshots%20application/Consulter-un-visiteur.gif?raw=true)
 ### Gérer un stock d'échantillon pour un visiteur donnée
 Choisir sa fonctionnalitée "Consulter" ou "Ajouter" :
