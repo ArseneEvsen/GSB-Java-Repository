@@ -36,7 +36,7 @@ Choisir sa fonctionnalitée "Consulter" ou "Ajouter" :
 Voici l'IHM de la consultation, l'utilisateur peut choisir le matricule d'un visiteur dans la barre déroulante de droite :
 ![alt text](https://github.com/ArseneEvsen/GSB-Java-Repository/blob/master/Screenshots%20application/Stocker_Liste_ChoisirVisiteur.png?raw=true)
 Voici un exemple, l'IHM affiche tout les stocks d'échantillons de médicament que possède le visiteur "a131" :
-![alt text](https://github.com/ArseneEvsen/GSB-Java-Repository/blob/master/Screenshots%20application/Stocker_Liste_ChoisirVisiteur.png?raw=true)
+![alt text]([https://github.com/ArseneEvsen/GSB-Java-Repository/blob/master/Screenshots%20application/Stocker_Liste_ChoisirVisiteur.png?raw=true](https://github.com/ArseneEvsen/GSB-Java-Repository/blob/master/Screenshots%20application/Stocker_Liste_ChoisirVisiteurExemple.png?raw=true))
 
 #### Créer ou ajouter du stock :
 La fonctionnalitée permet de créer ou ajouter du stock, à un visiteur donnée.
