@@ -46,7 +46,7 @@ Après l'ajout de la quantité d'échantillon, l'application est capable de vér
 ## Prérequis
 - Eclipse Version: 2022-06 (4.24.0)
 - java.runtime.version=17.0.4.1+1
-- Les drivers (exemple : mysqlconnector) sont disponnibles dans le repository.
+- Les drivers (exemple : mysqlconnector) sont disponibles dans le repository.
 - Base de donnée MySql Version 8
 - Logiciel de gestion et d'administration de bases de données MySQL favoris (exemple : MySQL Workbench)
 
