@@ -4,6 +4,8 @@ Auteur : Evsen Arsène
 - Présentation
 - Fonctionnalitées
 - Prérequis
+- Comment se procurer l’application + méthode d’installation
+- Licence
 
 ## Présentation
 GSB est une application de gestion d'employés pour l'entreprise fictive "GSB".
