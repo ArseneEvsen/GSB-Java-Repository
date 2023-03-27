@@ -56,6 +56,7 @@ Après l'ajout de la quantité d'échantillon, l'application est capable de vér
 - Avec l'IDE Eclipse 2022-06, ouvrir l'application avec le dossier décompressé
 - Ouvrir MySql Workbench, déployer la base de donnée
 - Avec l'adresse localhost, l'identifiant "admin" et "mot de passe", configurer le fichier ConnexionMySQL téléchargé dans le projet.
+- La classe à exécuter afin de lancer l'application se trouve dans view -> MenuPrincipal
 
 ## Licence 
 MIT License
